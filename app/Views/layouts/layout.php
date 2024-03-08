@@ -7,10 +7,6 @@
 
             <?php echo $this->renderSection('slot') ?>
 
-            <?php echo $this->renderSection('slot') ?>
-
-            <?php echo $this->renderSection('slot') ?>
-
     </div>
 
     <?= view('template/footer')?>
